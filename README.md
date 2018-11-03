@@ -16,19 +16,19 @@ Repository to contain all the R scripts that we develop for the KE5107 course CA
 ## Steps to get going
 
 1. Git clone the repository
-   `git clone https://github.com/ace-racer/KE5107_LeagueofLegends.git`
+   `git clone https://github.com/nakamura41/LeagueofLegends_Matches_Analysis.git`
 
-2. Checkout your branch - The branch name is the name by which we call each other: anurag, ryan, vaibhav, charles,   pier, david
+2. Checkout your branch - The branch name is the name by which we call each other: anurag, ryan, vaibhav, charles, pier, david
     `git checkout <<name>>`
-    E.g. `git checkout anurag`
+    E.g. `git checkout david`
 
 3. Write your code in this branch and then add, commit the changes like you would have done normally. Then use the below code to push your changes to the remote repository:
     `git push origin <<name>>`
-    E.g. `git push origin anurag`
+    E.g. `git push origin david`
 
     Validate that your changes have made way to remote by checking in the GitHub web portal!
 
-4. You can have a look at 'anurag' branch to get an idea of what should be present in your branch
+4. You can have a look at 'david' branch to get an idea of what should be present in your branch
 
 ### Kindly note
 5. Please do not commit anything to the master branch. This is the sacred branch where we consolidate our code after the discussion!
